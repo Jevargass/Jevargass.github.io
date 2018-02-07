@@ -20,3 +20,7 @@ You have a few choices depending on what you want to do. If you want to return t
 
 
 5. Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project. Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.
+
++My Biology 824 Assignment on Version Control
+ +
+ +My page: https://Jevargass.github.io/
