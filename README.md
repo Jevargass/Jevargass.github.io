@@ -23,4 +23,4 @@ You have a few choices depending on what you want to do. If you want to return t
 
 +My Biology 824 Assignment on Version Control
  +
- +My page: https://Jevargass.github.io/
+ +My page: https://Jevargass.github.io/github-assignment)
